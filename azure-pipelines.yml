@@ -11,6 +11,8 @@ pool:
 variables:
   - group: ContainerImagesBuild.Options
 
+
+
 jobs:
 
 - job: msr1011leanOriginalApproach
